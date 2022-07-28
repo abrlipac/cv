@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Abraham Lipa Calabilla
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Abraham Lipa Calabilla
+Estudiante de la UPT, desarrollador de software
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="abrlipac@upt.pe">abrlipac@upt.pe</a>
+| <a href="https://www.linkedin.com/in/abrlipac/">Linkedin</a>
+| <a href="https://github.com/abrlipac">GitHub</a>
 </div>
 
 
